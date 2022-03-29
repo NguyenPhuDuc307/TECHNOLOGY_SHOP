@@ -131,6 +131,7 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\HangSanPhamController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\LoaiSanPhamController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -146,6 +147,7 @@
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\images\ip13prm.png" />
     <Content Include="Content\images\logo_apple.png" />
     <Content Include="Content\images\logo_samsung.png" />
     <Content Include="favicon.ico" />
@@ -190,6 +192,9 @@
     <Content Include="Views\HangSanPham\Index.cshtml" />
     <Content Include="Views\HangSanPham\Detail.cshtml" />
     <Content Include="Views\HangSanPham\Create.cshtml" />
+    <Content Include="Views\LoaiSanPham\Index.cshtml" />
+    <Content Include="Views\LoaiSanPham\Detail.cshtml" />
+    <Content Include="Views\LoaiSanPham\Create.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
