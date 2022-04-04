@@ -496,3 +496,32 @@ C:\Users\nguye\OneDrive\Máy tính\TECHNOLOGY\TECHNOLOGY_SHOP\TECHNOLOGY SHOP\TE
 C:\Users\nguye\OneDrive\Máy tính\TECHNOLOGY\TECHNOLOGY_SHOP\TECHNOLOGY SHOP\TECHNOLOGY SHOP\obj\Debug\TECHNOLOGY SHOP.csproj.CopyComplete
 C:\Users\nguye\OneDrive\Máy tính\TECHNOLOGY\TECHNOLOGY_SHOP\TECHNOLOGY SHOP\TECHNOLOGY SHOP\obj\Debug\TECHNOLOGY SHOP.dll
 C:\Users\nguye\OneDrive\Máy tính\TECHNOLOGY\TECHNOLOGY_SHOP\TECHNOLOGY SHOP\TECHNOLOGY SHOP\obj\Debug\TECHNOLOGY SHOP.pdb
+D:\Lập trình web\Đồ án lập trình Web\TECHNOLOGY_SHOP\TECHNOLOGY SHOP\TECHNOLOGY SHOP\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Lập trình web\Đồ án lập trình Web\TECHNOLOGY_SHOP\TECHNOLOGY SHOP\TECHNOLOGY SHOP\bin\Microsoft.AspNetCore.Http.dll
+D:\Lập trình web\Đồ án lập trình Web\TECHNOLOGY_SHOP\TECHNOLOGY SHOP\TECHNOLOGY SHOP\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\Lập trình web\Đồ án lập trình Web\TECHNOLOGY_SHOP\TECHNOLOGY SHOP\TECHNOLOGY SHOP\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\Lập trình web\Đồ án lập trình Web\TECHNOLOGY_SHOP\TECHNOLOGY SHOP\TECHNOLOGY SHOP\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Lập trình web\Đồ án lập trình Web\TECHNOLOGY_SHOP\TECHNOLOGY SHOP\TECHNOLOGY SHOP\bin\Microsoft.Extensions.ObjectPool.dll
+D:\Lập trình web\Đồ án lập trình Web\TECHNOLOGY_SHOP\TECHNOLOGY SHOP\TECHNOLOGY SHOP\bin\Microsoft.Extensions.Options.dll
+D:\Lập trình web\Đồ án lập trình Web\TECHNOLOGY_SHOP\TECHNOLOGY SHOP\TECHNOLOGY SHOP\bin\Microsoft.Extensions.Primitives.dll
+D:\Lập trình web\Đồ án lập trình Web\TECHNOLOGY_SHOP\TECHNOLOGY SHOP\TECHNOLOGY SHOP\bin\Microsoft.Net.Http.Headers.dll
+D:\Lập trình web\Đồ án lập trình Web\TECHNOLOGY_SHOP\TECHNOLOGY SHOP\TECHNOLOGY SHOP\bin\System.Buffers.dll
+D:\Lập trình web\Đồ án lập trình Web\TECHNOLOGY_SHOP\TECHNOLOGY SHOP\TECHNOLOGY SHOP\bin\System.ComponentModel.Annotations.dll
+D:\Lập trình web\Đồ án lập trình Web\TECHNOLOGY_SHOP\TECHNOLOGY SHOP\TECHNOLOGY SHOP\bin\System.Memory.dll
+D:\Lập trình web\Đồ án lập trình Web\TECHNOLOGY_SHOP\TECHNOLOGY SHOP\TECHNOLOGY SHOP\bin\System.Numerics.Vectors.dll
+D:\Lập trình web\Đồ án lập trình Web\TECHNOLOGY_SHOP\TECHNOLOGY SHOP\TECHNOLOGY SHOP\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Lập trình web\Đồ án lập trình Web\TECHNOLOGY_SHOP\TECHNOLOGY SHOP\TECHNOLOGY SHOP\bin\System.Text.Encodings.Web.dll
+D:\Lập trình web\Đồ án lập trình Web\TECHNOLOGY_SHOP\TECHNOLOGY SHOP\TECHNOLOGY SHOP\bin\Microsoft.AspNetCore.Http.xml
+D:\Lập trình web\Đồ án lập trình Web\TECHNOLOGY_SHOP\TECHNOLOGY SHOP\TECHNOLOGY SHOP\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\Lập trình web\Đồ án lập trình Web\TECHNOLOGY_SHOP\TECHNOLOGY SHOP\TECHNOLOGY SHOP\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\Lập trình web\Đồ án lập trình Web\TECHNOLOGY_SHOP\TECHNOLOGY SHOP\TECHNOLOGY SHOP\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\Lập trình web\Đồ án lập trình Web\TECHNOLOGY_SHOP\TECHNOLOGY SHOP\TECHNOLOGY SHOP\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Lập trình web\Đồ án lập trình Web\TECHNOLOGY_SHOP\TECHNOLOGY SHOP\TECHNOLOGY SHOP\bin\Microsoft.Extensions.ObjectPool.xml
+D:\Lập trình web\Đồ án lập trình Web\TECHNOLOGY_SHOP\TECHNOLOGY SHOP\TECHNOLOGY SHOP\bin\Microsoft.Extensions.Options.xml
+D:\Lập trình web\Đồ án lập trình Web\TECHNOLOGY_SHOP\TECHNOLOGY SHOP\TECHNOLOGY SHOP\bin\Microsoft.Extensions.Primitives.xml
+D:\Lập trình web\Đồ án lập trình Web\TECHNOLOGY_SHOP\TECHNOLOGY SHOP\TECHNOLOGY SHOP\bin\Microsoft.Net.Http.Headers.xml
+D:\Lập trình web\Đồ án lập trình Web\TECHNOLOGY_SHOP\TECHNOLOGY SHOP\TECHNOLOGY SHOP\bin\System.Buffers.xml
+D:\Lập trình web\Đồ án lập trình Web\TECHNOLOGY_SHOP\TECHNOLOGY SHOP\TECHNOLOGY SHOP\bin\System.Memory.xml
+D:\Lập trình web\Đồ án lập trình Web\TECHNOLOGY_SHOP\TECHNOLOGY SHOP\TECHNOLOGY SHOP\bin\System.Numerics.Vectors.xml
+D:\Lập trình web\Đồ án lập trình Web\TECHNOLOGY_SHOP\TECHNOLOGY SHOP\TECHNOLOGY SHOP\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Lập trình web\Đồ án lập trình Web\TECHNOLOGY_SHOP\TECHNOLOGY SHOP\TECHNOLOGY SHOP\bin\System.Text.Encodings.Web.xml
